@@ -1,0 +1,8 @@
+package enshuu3_1;
+
+public class A {
+	int val = 10;
+	void show(){
+		System.out.println("A");
+	}
+}

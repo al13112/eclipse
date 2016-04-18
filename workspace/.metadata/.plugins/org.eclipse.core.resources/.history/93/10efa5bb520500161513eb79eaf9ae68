@@ -1,0 +1,8 @@
+package enshuu3_1;
+
+public class B extends A {
+	int val = 100;
+	void show(){
+		System.out.println("B");
+	}
+}

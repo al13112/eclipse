@@ -1,0 +1,9 @@
+package enshuu3_2;
+
+interface Rect {
+
+	public double getArea(double a, double b) {
+		return 10.0;
+	}
+
+}
