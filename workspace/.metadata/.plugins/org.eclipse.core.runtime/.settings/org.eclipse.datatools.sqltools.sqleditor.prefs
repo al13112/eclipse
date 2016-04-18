@@ -1,3 +1,11 @@
+Double\ quoted\ string=0,0,0,0,0,23,198,163
+Identifier=0,0,0,0,0,167,236,33
+Keyword=0,0,0,0,0,221,40,103
+Multi-line\ comment=0,0,0,0,0,98,98,98
+Others=0,0,0,0,0,217,232,247
+Single\ quoted\ string=0,0,0,0,0,23,198,163
+Single-line\ comment=0,0,0,0,0,98,98,98
+Type=0,0,0,0,0,18,144,195
 eclipse.preferences.version=1
 \u305D\u306E\u4ED6=0,0,0,0,1,0,0,0
 \u30AD\u30FC\u30EF\u30FC\u30C9=1,0,0,0,0,127,0,85
